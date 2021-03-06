@@ -1,0 +1,5 @@
+Il y a deux corrigés:
+
+* sans algorithm avec recursivite: c'est celui qui colle le plus aux questions de l'énoncé
+
+* avec algorithm sans recursivite: nous avons retiré la récursivité de arithm.cpp car, en C++, il vaut mieux l'éviter; nous en avons également profiter pour convertir un maximum de boucles en algorithmes de la STL
